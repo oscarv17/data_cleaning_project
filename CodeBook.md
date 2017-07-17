@@ -7,7 +7,7 @@ This codebook explains the variables, the data, and any transformations to the d
 * activity: The type of activity when the measurements were taken (WALKING=1, WALKING_UPSTAIRS=2, WALKING_DOWNSTAIRS=3, SITTING=4, STANDING=5, LAYING=6).
 * subject: Each row identifies the subject who performed the activity for each window sample.
 
-## Measurements
+### Measurements
 
 * tBodyAccMeanX
 * tBodyAccMeanY
